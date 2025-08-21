@@ -1,0 +1,8 @@
+ky tu cuoi cung trong array char luu tru '/0' (null terminate)
+THI
++ lay ky tu hoa
++ lay ky tu so
+
+duong cheo chinh i == j
+duong cheo phu i + j == n-1
+(n = sodong_cot)
